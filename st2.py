@@ -9,8 +9,8 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import img_to_array, load_img
 import io
 import streamlit as st
-import pydot
-import graphviz
+#import pydot
+#import graphviz
 
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
@@ -125,7 +125,7 @@ def main():
 def process():
   
   model = load_model('fullset.h5')
-  st.write(model)
+  #st.write(model)
 
   
   
