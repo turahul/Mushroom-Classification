@@ -2,6 +2,8 @@ streamlit
 tensorflow-cpu
 dlib
 pandas
+opencv-python
 numpy
 matplotlib
 Pillow
+sqlite3
