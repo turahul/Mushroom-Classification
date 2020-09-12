@@ -6,4 +6,4 @@ opencv-python
 numpy
 matplotlib
 Pillow
-pysqlite
+
