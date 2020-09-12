@@ -3,7 +3,5 @@ tensorflow-cpu
 dlib
 pandas
 numpy
-scikit-learn
 matplotlib
-plantcv
 Pillow
